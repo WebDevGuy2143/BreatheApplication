@@ -1,15 +1,15 @@
-# BreatheApplication
+# Breathing Application
 
-Best viewed on anything bigger than a mobile device. 
+## Description
 
-I wrote this application from while watching Brad Traversy's tutorual. 
+This is an application from Brad Traversy that I coded along to and it is used for bringing down anxiety levels. It utilizes HTML3, CSS3, and JavaScript.
 
-The point for this application is to help you calm your breathing when in an anxiety-like state.
-You breath in when the text inside the circle says "Breathe In".
-You hold you breath when the text inside the circle says, "Hold".
-...and finally you breathe out when the text inside the circle says, "Breathe Out".
+## Objectives Learned
 
-The colors really give a relaxing sense of mental environment I think, so I hope it does the same for you as well.
-I think the animated ball moving around the circle as you breathe, hold, and breathe out, really gives a sense of focus as well as a visual of breathing in and out.
+- Utilizes stylesheet, and script file linking
+- Manipulates the DOM using JavaScript
 
-Thanks and Enjoy!
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
